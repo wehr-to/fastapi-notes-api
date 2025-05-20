@@ -53,3 +53,8 @@ fastapi-notes-api/
 # - Implement auth with JWT
 # - Harden APIs against common vulnerabilities
 # - Use Swagger docs effectively for API testing
+
+🛠️ Notes
+Each script is written for clarity and easy customization.
+Comments are included to explain logic and recommended tweaks.
+Scripts were tested on Ubuntu 22.04 unless otherwise noted.
