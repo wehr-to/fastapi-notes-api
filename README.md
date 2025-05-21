@@ -32,6 +32,9 @@ An API-only Notes App built with FastAPI. This project demonstrates key backend 
 - Harden APIs against common vulnerabilities
 - Use Swagger docs effectively for API testing
 
+## 🤝 Contributions
+Pull requests are welcome! If you’d like to add features, improve security hardening, optimize code, or extend functionality, feel free to open an issue or PR. This is a learning-focused lab project, and collaboration is encouraged.
+
 🛠️ Notes
 Each script is written for clarity and easy customization.
 Comments are included to explain logic and recommended tweaks.
